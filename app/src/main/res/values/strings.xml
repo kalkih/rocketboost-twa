@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RocketBoost</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://rocket.karls.app\"
+            }
+        }]
+    </string>
+    <string name="providerAuthority">me.kvrl.rocketboost.fileprovider</string>
+    <string name="hostName">rocket.karls.app</string>
+    <string name="launchUrl">https://rocket.karls.app</string>
+</resources>
